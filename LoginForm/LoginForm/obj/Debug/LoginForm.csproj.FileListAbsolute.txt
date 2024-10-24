@@ -1,0 +1,11 @@
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\ROG STRIX\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
